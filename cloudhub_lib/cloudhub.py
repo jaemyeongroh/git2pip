@@ -1,2 +1,2 @@
-def print_cloudhub(self, msg):
+def print_cloudhub(msg):
     print(f"test입니다. {msg}")
