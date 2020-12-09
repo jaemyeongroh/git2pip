@@ -7,5 +7,6 @@ setup(name='cloudhub_lib',
       author='jaemyeongroh',
       author_email='test@gmail.com',
       license='jaemyeongroh',
-      packages=['cloudhub_lib'],
-      zip_safe=False)
+      packages=['cloudhub_lib==0.0.3'],
+      zip_safe=False,
+      install_requires=['salt==3001.1'])
