@@ -8,5 +8,4 @@ setup(name='cloudhub_lib',
       author_email='test@gmail.com',
       license='jaemyeongroh',
       packages=['cloudhub_lib'],
-      zip_safe=False,
-      install_requires=['salt==3001.1'])
+      zip_safe=False)
