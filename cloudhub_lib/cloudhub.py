@@ -5,3 +5,4 @@ def print_cloudhub(msg):
 print_cloudhub("ok!!")
 print_cloudhub("ok!!")
 print_cloudhub("ok!!")
+print_cloudhub("this!!")
