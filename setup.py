@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 setup(
     name=
     'cloudhub_lib',  # 이 패키지를 설치/삭제할 때 사용할 이름을 의미한다. 이 이름과 import할 때 쓰이는 이름은 다르다.
-    version='0.0.3',
+    version='0.0.4',
     description='cloudhub pip install test',
     long_description=long_description,
     url='https://github.com/jaemyeongroh/git2pip.git',
